@@ -12,4 +12,4 @@
   <br/>&nbsp;&nbsp;• **Knowledge:** Algorithms, Data Structures, Distributed Systems!
 
 🔗 &nbsp;**Connect with me:**
-<a href="http://linkedin.com/in/kholmatov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kholmatov" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/kholmatov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kholmatov" height="30" /></a>
