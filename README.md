@@ -7,8 +7,9 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Bachelor degree in Information Systems in Economics with distinction, GPA: 5.0 of 5.0
 - <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/2x/external-program-web-development-flaticons-flat-flat-icons.png" align="center" height="30" style="margin-left:-2px; padding-right:0px"/> **Programming Skills**
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Languages:** Python, Java, PHP, C++, JavaScript 
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Technologies:** SQL, Git, Docker, Kubernetes, CI/CD, asyncio, aiohttp, ElasticSearch 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Frameworks**:  Django, Yii, Zend, Codeigniter, Android SDK
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Technologies:** SQL, Git, Docker, Kubernetes, CI/CD, asyncio, aiohttp, ElasticSearch
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Cloud Computing:** AWS, DigitalOcean, YandexCloud 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Knowledge:** Algorithms, Data Structures, Distributed Systems!
 
 🔗 &nbsp;**Connect with me:**
