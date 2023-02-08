@@ -10,3 +10,6 @@
 
 - 📕 **Education** Tajik State University of Law, Business and Politics
 <br/>&nbsp;&nbsp;• Bachelor degree in Information Systems in Economics with distinction, GPA: 5.0 of 5.0
+
+🔗 &nbsp;**Connect with me:**
+<a href="http://linkedin.com/in/kholmatov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kholmatov" height="30" width="40" /></a>
