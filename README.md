@@ -12,5 +12,4 @@
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Cloud Computing:** AWS, DigitalOcean, YandexCloud 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Knowledge:** Algorithms, Data Structures, Distributed Systems!
 
-🔗 &nbsp;**Connect with me:**
-<a href="http://linkedin.com/in/kholmatov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kholmatov" height="30" /></a>
+- 🔗 **Connect with me:** [<img align="center" src="https://img.icons8.com/fluency/2x/linkedin-2.png" alt="kholmatov" height="30" />](http://linkedin.com/in/kholmatov/)
