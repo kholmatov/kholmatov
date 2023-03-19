@@ -12,6 +12,6 @@
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Cloud Computing:** AWS, DigitalOcean, YandexCloud 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Knowledge:** Algorithms, Data Structures, Distributed Systems!
   
-  [![wakatime](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573.svg)](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573)
+<!--   [![wakatime](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573.svg)](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573) -->
 
 - 🔗 **Connect with me:** [<img align="center" src="https://img.icons8.com/fluency/2x/linkedin-2.png" alt="kholmatov" height="30" />](http://linkedin.com/in/kholmatov/)
