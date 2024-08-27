@@ -9,7 +9,7 @@
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Languages:** Python, Java, PHP, C++, JavaScript 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Frameworks**:  FastAPI, Flask, Django, Yii, Zend, Codeigniter, Android SDK
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Technologies:** SQL, Git, Docker, Kubernetes, CI/CD, AIOHTTP, asyncio, ElasticSearch
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Cloud Computing:** AWS, DigitalOcean, YandexCloud 
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Cloud Computing:** AWS, Azure, GCP, DigitalOcean, YandexCloud 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Knowledge:** Algorithms, Data Structures, Distributed Systems!
   
 <!--   [![wakatime](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573.svg)](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573) -->
