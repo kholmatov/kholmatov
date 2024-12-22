@@ -14,8 +14,8 @@
   
 <!--   [![wakatime](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573.svg)](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573) -->
 
-- 🔗 **Connect with me:** [<img align="center" src="https://img.icons8.com/fluency/2x/linkedin-2.png" alt="kholmatov" height="30" />](http://linkedin.com/in/kholmatov/)
-- 🥇 **Leetcode Badges:**
+- 🔗 **Connect with me** [<img align="center" src="https://img.icons8.com/fluency/2x/linkedin-2.png" alt="kholmatov" height="30" />](http://linkedin.com/in/kholmatov/)
+- 🥇 **Leetcode Badges**
 
 | ![1000 Problems Solved](https://assets.leetcode.com/static_assets/marketing/1000.gif) | ![500 Days Streak](https://assets.leetcode.com/static_assets/marketing/500_new.gif) | ![365 Days Streak](https://assets.leetcode.com/static_assets/marketing/365_new.gif) | ![2024 Achievement](https://assets.leetcode.com/static_assets/marketing/2024.gif) | ![2024 - 200 Problems](https://assets.leetcode.com/static_assets/marketing/2024-200.gif) |
 |---|---|---|---|---|
