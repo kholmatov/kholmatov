@@ -15,6 +15,7 @@
 <!--   [![wakatime](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573.svg)](https://wakatime.com/badge/user/2dc1bcc0-4b28-4851-8b67-dd94a84cf37b/project/24814392-2814-485c-94e4-ef54e65e4573) -->
 
 - 🔗 **Connect with me** [<img align="center" src="https://img.icons8.com/fluency/2x/linkedin-2.png" alt="kholmatov" height="30" />](http://linkedin.com/in/kholmatov/)
+<!---  
 - 🥇 **Leetcode Badges**
 
 | ![1000 Problems Solved](https://assets.leetcode.com/static_assets/marketing/1000.gif) | ![500 Days Streak](https://assets.leetcode.com/static_assets/marketing/500_new.gif) | ![365 Days Streak](https://assets.leetcode.com/static_assets/marketing/365_new.gif) | ![2024 Achievement](https://assets.leetcode.com/static_assets/marketing/2024.gif) | ![2024 - 200 Problems](https://assets.leetcode.com/static_assets/marketing/2024-200.gif) |
@@ -23,3 +24,4 @@
 | ![2022 - 100 Problems](https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual-100.gif) | ![2024 November Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif) | ![2024 October Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif) | ![2024 September Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif) | ![2024 August Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif) |
 | ![2024 July Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif) | ![2024 June Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif) | ![2024 May Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif) | ![2024 April Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif) | ![2024 March Badge](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif) |
 | ![2023 April Badge](https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif) | ![2023 March Badge](https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif) | ![2023 February Badge](https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif) | ![2022 August Badge](https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif) | ![LC-75 Badge](https://assets.leetcode.com/static_assets/others/LC-75.gif) |
+-->
